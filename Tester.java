@@ -1,10 +1,9 @@
 /*
- * Shannon Duvall
+ * Abdul Wahab 
  * Tester.java
- * Tests the methods you wrote
- * using junit testing.
+ * Tests the methods in sub-classes
+ * uses junit testing.
  * 
- * Do not change anything in this file.
  */
 import junit.framework.*;
 import java.util.ArrayList;
